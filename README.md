@@ -27,3 +27,4 @@ interesting project to me (NLP, RL, IR, Recommendation, algorithm)
 13.https://github.com/niderhoff/nlp-datasets  主要nlp领域的数据集
 
 14.https://github.com/sundeepblue/movie_rating_prediction 初步接触时的imdb电影评价项目（不忘本~~）
+14. https://github.com/twairball/fairseq-zh-en    这是使用fairseq去训练的机器翻译，很好的一个模型，也对应很好的文章，mark
