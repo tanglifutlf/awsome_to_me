@@ -29,3 +29,5 @@ interesting project to me (NLP, RL, IR, Recommendation, algorithm)
 14.https://github.com/sundeepblue/movie_rating_prediction 初步接触时的imdb电影评价项目（不忘本~~）
 
 15. https://github.com/twairball/fairseq-zh-en    这是使用fairseq去训练的机器翻译，很好的一个模型，也对应很好的文章，mark
+
+16. https://github.com/ylxie/Classical-Chinese-Poetry-Corpus   用于古诗词生成的语聊
