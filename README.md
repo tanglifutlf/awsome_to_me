@@ -32,3 +32,5 @@ interesting project to me (NLP, RL, IR, Recommendation, algorithm)
 
 16. https://github.com/ylxie/Classical-Chinese-Poetry-Corpus   用于古诗词生成的语聊
 17. https://github.com/jessevig/bertviz   bert等预训练语言模型的可视化方法，先mark吧，后面会用得到
+18. https://github.com/ymcui/Chinese-BERT-wwm  中文版本的bert模型汇集了
+19. https://github.com/brightmart/roberta_zh  阉割版本的bert模型，因为米有12层的@~@，或者说再google 云盘上，没法下载
