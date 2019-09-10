@@ -34,3 +34,4 @@ interesting project to me (NLP, RL, IR, Recommendation, algorithm)
 17. https://github.com/jessevig/bertviz   bert等预训练语言模型的可视化方法，先mark吧，后面会用得到
 18. https://github.com/ymcui/Chinese-BERT-wwm  中文版本的bert模型汇集了
 19. https://github.com/brightmart/roberta_zh  阉割版本的bert模型，因为米有12层的@~@，或者说再google 云盘上，没法下载
+20. https://github.com/ymcui/Chinese-PreTrained-XLNet  也是哈工大提供的xlnet中文版预训练模型
