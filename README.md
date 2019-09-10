@@ -31,3 +31,4 @@ interesting project to me (NLP, RL, IR, Recommendation, algorithm)
 15. https://github.com/twairball/fairseq-zh-en    这是使用fairseq去训练的机器翻译，很好的一个模型，也对应很好的文章，mark
 
 16. https://github.com/ylxie/Classical-Chinese-Poetry-Corpus   用于古诗词生成的语聊
+17. https://github.com/jessevig/bertviz   bert等预训练语言模型的可视化方法，先mark吧，后面会用得到
