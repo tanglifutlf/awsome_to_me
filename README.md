@@ -36,3 +36,4 @@ interesting project to me (NLP, RL, IR, Recommendation, algorithm)
 19. https://github.com/brightmart/roberta_zh  阉割版本的bert模型，因为米有12层的@~@，或者说再google 云盘上，没法下载
 20. https://github.com/ymcui/Chinese-PreTrained-XLNet  也是哈工大提供的xlnet中文版预训练模型
 21. https://github.com/BVLC/caffe   caffe的github，作为一个有梦想的咸鱼，还是立下flag，今年看caffe源码完
+22. https://github.com/inessus/pytorch_awesome/blob/master/pytorch_awesome.md   一些比较重要的pytorch库实现
