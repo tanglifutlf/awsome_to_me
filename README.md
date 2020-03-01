@@ -38,3 +38,4 @@ interesting project to me (NLP, RL, IR, Recommendation, algorithm)
 21. https://github.com/BVLC/caffe   caffe的github，作为一个有梦想的咸鱼，还是立下flag，今年看caffe源码完
 22. https://github.com/inessus/pytorch_awesome/blob/master/pytorch_awesome.md   一些比较重要的pytorch库实现
 21. https://github.com/xysoul/SearchEngine     卡耐基梅隆大学的搜索引擎和网页挖掘的大作业，用于文献检索
+22. https://github.com/JimmyHHua/opencv_tutorials/blob/master/README_CN.md   opencv的简单学习教程
